@@ -14,6 +14,10 @@ But before we dive into individual bands, we need to understand the mathematics 
 
 Electromagnetic waves are oscillating electric and magnetic fields. You might be wondering why sound waves aren't part of the electromagnetic spectrum, they're waves too right?
 
-Sound waves are fundamentally different, they are what we call longitudinal waves instead of electromagnetic waves which are transverse waves.
+Sound waves are fundamentally different, they're what we call longitudinal waves which differ from transverse waves which make up electromagnetic waves. 
 
+![[Pasted image 20251217070731.png]]
 
+As you can see, a longitudinal wave oscillates back and forth like a slinky, creating compression's and rarefaction's (a rarefaction is the opposite of compression, it's the spreading out of waves). Your ear captures these vibrations, amplifies it using your bones (wow), and then converts the mechanical vibrations into electrical signals for your brain.
+
+On the other hand, transverse waves are a bit more complicated. Their electric field is oscillating in time, which means when you place a charged particle in that field, it feels a force, causing the particle to move back and forth causing the particles to oscillate. The particle's motion is a response of the field, not actually the field itself. 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c2e6370fffa7d4f",
+        "id": "88bd13c0d7823b11",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb3d65d8d95c4ed",
+            "id": "6bed817c06c2cc79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,6 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9cb3d65d8d95c4ed",
-  "lastOpenFiles": []
+  "active": "6bed817c06c2cc79",
+  "lastOpenFiles": [
+    "README.md",
+    "images",
+    "images/Pasted image 20251217070731.png"
+  ]
 }
