@@ -8,7 +8,7 @@ The electromagnetic spectrum encompasses the full range of electromagnetic waves
 
 What's interesting is that all these waves in all of these bands, have different characteristics of how they're produced, how they interact and how we use them.
 
-I've split up this technical explainer into chapters. Each chapter will go into depth aboute the 
+I've split up this technical explainer into chapters. Each chapter will go into depth about their specific band of waves, and I've also provided a brief overview of what a wave actually is below!
 
 But before we dive into individual bands, we need to understand the mathematics that describe how waves actually work.
 
@@ -20,7 +20,7 @@ Sound waves are fundamentally different, they're what we call longitudinal waves
 
 As you can see, a longitudinal wave oscillates back and forth like a slinky, creating compression's and rarefaction's (a rarefaction is the opposite of compression, it's the spreading out of waves). Your ear captures these vibrations, amplifies it using your bones (wow), and then converts the mechanical vibrations into electrical signals for your brain.
 
-On the other hand, transverse waves are a bit more complicated. Their electric field is oscillating in time, which means when you place a charged particle in that field, it feels a force, making the particle to move back and forth causing the particles to oscillate. The particle's motion is a response of the field, not actually the field itself. 
+On the other hand, transverse waves are a bit more complicated. Their electric field is oscillating in time, which means when you place a charged particle in that field, it feels a force, making the particle move back and forth causing it to oscillate. The particle's motion is a response of the field, not actually the field itself. 
 
 ![Pasted image 20251217074524.png](images/Pasted%20image%2020251217074524.png)
 
@@ -37,9 +37,11 @@ First of all you have frequency, which describes how fast the fields are oscilla
 
 Next, you have the wavelength, which is the distance between repeating points of the wave. As frequency increases, the wavelength will decrease, they are inversely proportional. If the speed increases while the frequency remains the same, the wavelength will increase because the oscillations are covering a larger distance!
 
-Finally you have the amplitude of the wave which determines the maximum strength of the electric and magnetic field. The energy of the wave is directly proportional to the square of the amplitude, so double the amplitude, means 4 times the energy. This is really interesting in many cases, for example if the seismic waves of an earthquake have larger amplitudes, they'll have much more destruction. Particles in an EM wave with a larger amplitude will feel a strong force proportionally. But this doesn't mean waves with a higher amplitude will last longer, that depends on other factors like pulse length and medium, it's just the maximum strength of the oscillation. 
+Finally you have the amplitude of the wave which determines the maximum strength of the electric and magnetic field. The energy of the wave is directly proportional to the square of the amplitude, so double the amplitude, means 4 times the energy. *This is really interesting in many cases, for example if the seismic waves of an earthquake have larger amplitudes, they'll have much more destruction*. 
 
-![[Pasted image 20251217090106.png]]
+Particles in an EM wave with a larger amplitude will feel a strong force proportionally. But this doesn't mean waves with a higher amplitude will last longer, that depends on other factors like pulse length and medium, it's just the maximum strength of the oscillation. 
+
+![Pasted image 20251217090106.png](images/Pasted%20image%2020251217090106.png)
 
 
 

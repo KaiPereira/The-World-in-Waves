@@ -11,12 +11,14 @@
             "id": "6bed817c06c2cc79",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251217090106.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251217090106"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -110,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -152,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20251217090036.png",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251217090036"
+              "title": "Outline of README"
             }
           }
         ]
@@ -179,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e66c95a7f6aee699",
+  "active": "6bed817c06c2cc79",
   "lastOpenFiles": [
-    "images/Pasted image 20251217090106.png",
-    "Pasted image 20251217090036.png",
-    "README.md",
     "README.md~",
+    "Pasted image 20251217090036.png",
+    "images/Pasted image 20251217090106.png",
+    "README.md",
     "Pasted image 20251217074210.png",
     "images/Pasted image 20251217074524.png",
     "images",
