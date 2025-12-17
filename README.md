@@ -30,3 +30,18 @@ But how do you actually start this chain reaction? It's actually really simple, 
 - A stationary charge will create a static electric field
 - A charge at a constant velocity will create a steady electric and magnetic field
 - But a charge that's accelerating will create changing fields that can sustain the self-propagating chain reaction
+
+Now what properties do these transverse waves have?
+
+First of all you have frequency, which describes how fast the fields are oscillating at a fixed point. Frequency is the fundamental property that determines the electromagnetic wave.
+
+Next, you have the wavelength, which is the distance between repeating points of the wave. As frequency increases, the wavelength will decrease, they are inversely proportional. If the speed increases while the frequency remains the same, the wavelength will increase because the oscillations are covering a larger distance!
+
+Finally you have the amplitude of the wave which determines the maximum strength of the electric and magnetic field. The energy of the wave is directly proportional to the square of the amplitude, so double the amplitude, means 4 times the energy. This is really interesting in many cases, for example if the seismic waves of an earthquake have larger amplitudes, they'll have much more destruction. Particles in an EM wave with a larger amplitude will feel a strong force proportionally. But this doesn't mean waves with a higher amplitude will last longer, that depends on other factors like pulse length and medium, it's just the maximum strength of the oscillation. 
+
+![[Pasted image 20251217090106.png]]
+
+
+
+
+
