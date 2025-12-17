@@ -2,7 +2,7 @@
 
 *A technical explainer of the entire electromagnetic spectrum and how waves actually work.*
 
-Have you ever actually taken a moment to think about the invisible waves just travelling through the empty space around you. But let's start off with a really simple question, what actually is an electromagnetic wave?
+Have you ever actually taken a moment to think about the invisible waves just travelling through the empty space around you. Let's start off with a really simple question, what actually is an electromagnetic wave?
 
 The electromagnetic spectrum encompasses the full range of electromagnetic waves, separated by bands, from lowest to highest frequency: radio waves, micro-waves, infrared radiation, visible light, ultraviolet, x-ray and gamma-rays.
 
@@ -43,7 +43,12 @@ Particles in an EM wave with a larger amplitude will feel a strong force proport
 
 ![Pasted image 20251217090106.png](images/Pasted%20image%2020251217090106.png)
 
+And just like that, you should now have a basic understanding of what an electromagnetic wave actually is. Feel free to go onto the next sections, but if you want to stick around, I'll talk more about some of the more complicated aspects of electromagnetic waves. 
 
+So we understand what actually makes up waves, but how do these properties manifest the unique behaviors across the electromagnetic spectrum?
 
+Well, this is the whole point of the separate chapters, but essentially as you go down the bands, you get higher frequency, shorter wavelengths and more energy per photon.
 
+But wait, where do photo's come into play here? Photon's are actually the fundamental quanta of the electromagnetic fields. The energy of these photon's depends on the frequency of your wave, so that's why higher frequency waves like x-rays and gamma rays carry enough energy to ionize atoms and even damage your DNA!
 
+This is really interesting because it shows that at a quantum level, electromagnetic waves are acting as waves but also as particles depending on how you're observing it. This is called wave-particle duality. It's really useful because we can use photon's to explain things that classical waves just can't fully describe. So while they're not really relevant for low-frequency waves like radio, you'll see how they become more relevant for high-frequency waves like x-rays and gamma rays! 
